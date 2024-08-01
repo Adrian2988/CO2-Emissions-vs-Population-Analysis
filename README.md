@@ -1,6 +1,6 @@
 # CO2 Emissions vs Population Analysis
 
-A brief description of what this project does and who it's for.
+A brief description of what this project does.
 
 ## Table of Contents
 
@@ -17,8 +17,6 @@ Instructions on how to install and set up the project.
 - Power BI
 - Excel
 
-### Clone the Repository
-
 
 ### Setup 
 1. Ensure you have Power BI installed on your computer.
@@ -33,6 +31,8 @@ Power BI
 
 ## Data 
 The data used in this project is stored in the Data.xlsx file. It contains CO2 emissions data and population, with split between urban and rural data for various regions.
+
+### Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/your-repository-name.git
