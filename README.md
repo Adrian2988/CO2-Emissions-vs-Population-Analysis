@@ -33,6 +33,6 @@ The data used in this project is stored in the Data.xlsx file. It contains CO2 e
 ### Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/your-repository-name.git]
-(https://github.com/Adrian2988/CO2-Emissions-vs-Population-Analysis.git)
+git clone https://github.com/your-username/your-repository-name.git
+
 
