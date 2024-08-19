@@ -10,8 +10,6 @@ This project contains analysis of population impact to CO2 Emissions.
 
 ## Installation
 
-Instructions on how to install and set up the project.
-
 ### Prerequisites
 
 - Power BI
