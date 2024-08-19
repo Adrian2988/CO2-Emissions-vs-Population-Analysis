@@ -1,6 +1,6 @@
 # CO2 Emissions vs Population Analysis
 
-A brief description of what this project does.
+This project contains analysis of population impact to CO2 Emissions. 
 
 ## Table of Contents
 
