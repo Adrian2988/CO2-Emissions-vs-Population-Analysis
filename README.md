@@ -2,11 +2,6 @@
 
 This project contains analysis of population impact to CO2 Emissions. 
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
 
 ## Installation
 
