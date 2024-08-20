@@ -19,8 +19,11 @@ This project contains analysis of population impact to CO2 Emissions and trends 
    - The Excel file should be linked to Power Query and should automatically pull the latest data from OneDrive.
 4. Explore the dashboard:
    - Use the dashboard and data sheets to explore the ratio analysis.
-
+   - 
 If you encounter any errors related to data loading, ensure that the OneDrive file path is correct and that you have the necessary permissions.
+The data files can be accessed through the following OneDrive link:
+https://onedrive.live.com/download?id=8B2A3064FD7C1714!35829&resid=8B2A3064FD7C1714!35829&authkey=!ADKxysLyEoqAATg
+
 
 ## Usage 
 Power BI
@@ -30,6 +33,7 @@ Power BI
 
 ## Data 
 The data used in this project is stored in the Data.xlsx file, which is hosted on OneDrive. Data comes from the World Bank Group and includes CO2 emissions and population statistics from various regions, divided into urban and rural data.
+
 
 ### Clone the Repository
 
